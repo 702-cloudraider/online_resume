@@ -1,0 +1,52 @@
+* PROFILE
+
+* Summary
+
+A driven and knowledgeable data center technician with 2 years of DC support and over 8 years in IT. Proficient in deploying, troubleshooting, and configuring over 10,000 devices within data centers, ensuring seamless operations and optimal performance. Skilled in Linux with 5+ years of experience, capable of executing break-fix and technical tasks, including power cycling, running diagnostics commands, and replacing defective components. Currently pursuing a bachelor's degree in Networking (Cisco) at Nevada State College, with an expected graduation date in June 2024.
+
+* CERTIFICATE
+
+* rela-block certs comptia
+
+Comptia Network+
+Comptia A+
+
+* EDUCATION
+
+* rela-block bold (school)
+
+
+* EXPERTISE
+
+* rela-block list-thing
+
+20+ years with proven problem-solving skills, team player, exceptional communication skills, and an active listener
+
+7+ years with CPUs, RAM, hard drives, and RAID configurations
+
+5+ years Linux (Red Hat, CentOS, Ubuntu)
+
+5+ years with Cat 5/6 cabling installation, maintenance, and troubleshooting.
+
+5+ years with administration and troubleshooting TCP/IP, DNS, DHCP, VPN
+
+4+ years scripting and automation (Bash)
+
+3+ years familiarity with cloud platforms (AWS, Azure, GCP)
+
+2+ years with IT ticket management
+
+2+ years log analysis and troubleshooting
+
+2+ years containers (Kubernetes and Docker)
+
+2+ years with firewall configurations and access control.
+
+2+ years with Active directory/ LDAP administration
+
+*CUSTOMER SERVICE AWARDS
+
+• Employee of the Month at Suncoast.
+• Certificate Of Excellence from the City of Las Vegas
+• Everyone Every Day, Customer Compliments at Suncoast - multiple compliments
+• Aces of Penn Awards customer compliments - multiple compliments
